@@ -39,3 +39,7 @@ This project was built as part of my application to an incubator.
 It's my first multiplayer real-time game — and I coded everything by hand from scratch.
 
 Made with 🤍 by Aisha(Mels)
+
+## 🎥 Demo Video
+
+[ Watch the multiplayer demo on Loom](https://www.loom.com/share/8a3eca446be447e99b113c538e6c21ad?sid=57a44263-e974-4a2c-b69f-596267afe817)
